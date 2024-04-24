@@ -1,0 +1,76 @@
+/* Header Section */
+
+    
+
+.bg-img{
+    background-image: url('../newyearassignment/Banner.png');
+    background-repeat: no-repeat;
+    /* margin: 100px 100px 0px 100px;*/
+   /* width:2000px;
+    height: 1000px; */
+    background-position: center;
+   padding: 20em;
+    margin-top: 0;
+   
+   
+  
+}
+
+.title{
+    color: white;
+    text-align: center;
+    font-size: larger;
+    margin-top: 100px;
+    margin-bottom: 0;
+}
+
+.main-title{
+    font-size:60px;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+  
+    
+
+}
+
+/* Main Section */
+
+.first-banner {
+    text-align: center;
+}
+
+.first-banner-title {
+    color: red;
+}
+
+.first-banner-offer{
+    color: red;
+    margin-bottom: 0;
+}
+
+.first-banner-categories{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.secend-banner-size{
+    background-image: url('../newyearassignment/Group70.png'),url('../newyearassignment/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-size:300px, 90%;
+    background-position: 80% 80%, bottom;
+    color: white;
+    text-align: left;
+    padding: 200px;
+    
+}
+
+.secend-banner-title{
+    font-size: 70px;
+    margin-bottom: 0;
+}
+
+.secend-banner-last-title{
+    font-size: 70px;
+    margin-top: 0;
+}
