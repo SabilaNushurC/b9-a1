@@ -74,3 +74,137 @@
     font-size: 70px;
     margin-top: 0;
 }
+
+.join-button{
+    background-color:#ff0000;
+    border-radius:5px;
+    border:0;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px 30px;
+    
+}
+
+.third-banner{
+    text-align: center;
+    background-color: #FFF8F3;
+    margin: 80px 90px;
+    padding: 130px;
+}
+
+.third-banner-line3 {
+  
+    margin-bottom: 35px;
+}
+
+.fourth-banner {
+    display: flex;
+    margin: 150px 90px;
+    background-image: url('../newyearassignment/Group96.png');
+    background-repeat: no-repeat;
+    background-position: 80% bottom;
+}
+
+.fourth-banner-part-one{
+    padding: 40px 50px 40px 0;
+    max-width: 33%;
+}
+.fourth-banner-image{
+    max-width: 33%;
+    padding: 10px;
+
+}
+
+.fourth-banner-part-three{
+    text-align: left;
+    padding: 40px 40px 40px 40px;
+    max-width: 33%;
+}
+
+.circle {
+    height: 400px;
+    width: 400px;
+    border: 10px solid red ;
+    border-radius:6000px;
+    
+}
+
+.fifth-banner{
+    text-align: center;
+}
+.text-red{
+    color: #ff0000;
+}
+
+.fifth-banner-title-2{
+    font-size: 40px;
+    margin-top: 0;
+
+}
+
+.fifth-banner-title{
+    margin-bottom: 0;
+}
+
+.fifth-banner-image{
+    background-image: url('../newyearassignment/Rectangle2.png'), url('../newyearassignment/Grou44.png');
+    background-repeat: no-repeat;
+    background-position: 0% 100%, 65% 40%;
+    margin: 100px;
+    max-width: 90%;
+    max-height: 90%;
+    display: flex;
+}
+
+.fifth-banner-image2{
+    height: 430px ;
+    max-width: 40%;
+    padding: 6px 0 0 60px;
+    
+}
+
+.sixth-banner-title{
+    color: red;
+    margin-bottom: 0;
+}
+
+.sixth-banner {
+    text-align: left;
+    margin: 100px;
+}
+.sixth-banner-title1{
+    margin-top: 0;
+}
+
+.sixth-banner-container {
+    margin: 10px 100px 0 100px;
+    display: flex;
+    gap: 15px;
+    
+}
+.image-container {
+    border-radius: 5px;
+}
+.seventh-banner-container{
+    background-color: #faeded;
+    margin: 100px 100px 100px 100px;
+    padding: 70px;
+   text-align: center;
+   border-radius: 10px;
+}
+.contact input[type="email"]{
+    border:0;
+    padding: 18px 30px;
+    border-radius: 15px 0 0 15px;
+
+}
+.contact input[type="submit"]{
+    border:0;
+    padding: 18px 30px;
+    border-radius: 0 15px 15px 0;
+    background: #FF0000;
+    color: white;
+    position: absolute;
+    margin: 0;
+}
